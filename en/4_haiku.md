@@ -10,10 +10,10 @@ I would just leave.
 
 If I saw a way  
 To exist as not myself  
-I would dump me.  
+I would throw me out.  
 
 
 If I saw a way  
 To just become blind now  
-That might work too.  
+That might work as well.  
 
