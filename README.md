@@ -9,8 +9,16 @@
 
 <img src='icons/GB.png?raw=true' width='15' height='10'> [4 Haiku](en/4_haiku.md)  
 
+<img src='icons/GB.png?raw=true' width='15' height='10'> [The Factory](en/the_factory.md)  
+
+<img src='icons/GB.png?raw=true' width='15' height='10'> [Creation](en/creation.md)  
+
 <img src='icons/GR.png?raw=true' width='15' height='10'> [Ονόμασες το σεντονάκι σου νάνι.](gr/nani.md)  
 
 <img src='icons/GR.png?raw=true' width='15' height='10'> [Μεταμεσονύχτιος θυμός](gr/angry-midnight-rant.md)  
 
 <img src='icons/GR.png?raw=true' width='15' height='10'> [Για τον Τέρρυ](gr/for_Terry.md)  
+
+<img src='icons/GR.png?raw=true' width='15' height='10'> [Χαλασμένο Σονέτο](gr/crappy-sonnet.md)  
+
+<img src='icons/GR.png?raw=true' width='15' height='10'> [Η μάγισσα και το παράθυρο](gr\the-witch-and-the-window.md)  
