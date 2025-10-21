@@ -21,4 +21,4 @@
 
 <img src='icons/GR.png?raw=true' width='15' height='10'> [Χαλασμένο Σονέτο](gr/crappy-sonnet.md)  
 
-<img src='icons/GR.png?raw=true' width='15' height='10'> [Η μάγισσα και το παράθυρο](gr\the-witch-and-the-window.md)  
+<img src='icons/GR.png?raw=true' width='15' height='10'> [Η μάγισσα και το παράθυρο](gr/the-witch-and-the-window.md)  
