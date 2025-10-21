@@ -19,7 +19,7 @@ The blurry trees change.
 To stars seen from a crooked tent.  
 To the wall across my old balcony.  
 To an old yellow brick building in an old square.  
-To desserts, to seas, to hills, to places I have  forgotten where they were.  
+To deserts, to seas, to hills, to places I have  forgotten where they were.  
 Behind me screams of light, discordant joy, halls of life.  
 And I always at night, outside, alone.   
 My home in my ears; Its warmth to guide me back to were I belong.  
