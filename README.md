@@ -13,6 +13,9 @@
 
 <img src='icons/GB.png?raw=true' width='15' height='10'> [Creation](en/creation.md)  
 
+<img src='icons/GB.png?raw=true' width='15' height='10'> [Landing](en/Landing.md)  
+
+
 <img src='icons/GR.png?raw=true' width='15' height='10'> [Ονόμασες το σεντονάκι σου νάνι.](gr/nani.md)  
 
 <img src='icons/GR.png?raw=true' width='15' height='10'> [Μεταμεσονύχτιος θυμός](gr/angry-midnight-rant.md)  
