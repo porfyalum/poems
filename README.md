@@ -26,4 +26,4 @@
 
 <img src='icons/GR.png?raw=true' width='15' height='10'> [Η μάγισσα και το παράθυρο](gr/the-witch-and-the-window.md)
 
-<img src='icons/GR.png?raw=true' width='15' height='10'> [Τι κάνουν α μη δυαδικά άτομα στην τουαλέτα](gr/what-nb-do-in-toilet.md)  
+<img src='icons/GR.png?raw=true' width='15' height='10'> [Τι κάνουν υα μη δυαδικά άτομα στην τουαλέτα](gr/what-nb-do-toilets.md)  
